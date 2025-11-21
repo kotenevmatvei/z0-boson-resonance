@@ -1,0 +1,21 @@
+Humboldt-Universitaet zu Berlin
+Z resonance Praktikum 
+Supervisor: Dan Parsons
+
+
+files:
+++++++
+
+   README              this file
+   89gev.dat           L3-Data at 89 GeV
+   91gev.dat           L3-Data ay 91 GeV
+   93gev.dat           L3-Data at 93 GeV
+   hadrons.dat         Monte-Carlo-Data e+e- -> q q -> Hadrons, 91 GeV
+   muons.dat           Monte-Carlo-Data e+e- -> mu mu, 91 GeV 
+   Praktikum_example.ipynb     Program for the experiment
+   Instructions.pdf    Instructions for the experiment
+
+
+web
+====
+https://www.physik.hu-berlin.de/de/eephys/teaching/lab/z0resonance/index_english
